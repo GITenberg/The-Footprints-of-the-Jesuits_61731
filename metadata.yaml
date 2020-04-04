@@ -1,0 +1,39 @@
+_repo: The-Footprints-of-the-Jesuits_61731
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thompson, Richard W. (Richard Wigginton)
+    aliases:
+    - Thompson, Richard Wigginton
+    - Thompson, R. W. (Richard Wigginton)
+    birthdate: 1809
+    deathdate: 1900
+    gutenberg_agent_id: '51592'
+    url: http://www.gutenberg.org/2009/agents/51592
+    wikipedia: https://en.wikipedia.org/wiki/Richard_W._Thompson
+description: ''
+gutenberg_issued: '2020-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61731'
+  lccn: '15007316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Jesuits -- History'
+- !lcsh 'Jesuits -- Controversial Literature'
+- GITenberg
+tableOfContents: Preface -- Introductory -- Ignatius Loyola, founder of the order
+  -- The constitution of the society -- Government of the society -- Struggles and
+  opposition -- The struggle for France -- The society enters Germany -- The Jesuits
+  in England -- Jesuit influence in India -- In Paraguay -- The Portuguese and the
+  Jesuits -- Idolatrous usages introduced -- Papal suppression of the society -- Re-establishment
+  -- Re-entering Spain -- Revolutions in southern Europe -- Temporal power of the
+  pope overthrown -- Papal demands -- Present attitude of the papacy -- The Church
+  and the State -- The Church supreme -- Jesuitical teachings -- Papal infallibility
+  -- The Church and literature -- Intrigues and interpretations -- Conclusion.
+title: The Footprints of the Jesuits
+url: http://www.gutenberg.org/ebooks/61731
